@@ -21,7 +21,7 @@ Before running the application, make sure you have the following installed on yo
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/event-management-cli.git
+   git clone https://github.com/D2icehacker/Event-planner-cli.git
 
 ## Usage
 
